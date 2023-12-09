@@ -2,11 +2,21 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+Culinary Collab is a webapp aimed at bar and food service professionals, as well as the average at-home cook or home bar enthusiast. Storing drink and food recipes, the app aims to provide a sleeker method of sharing, storing, and finding recipes. During this phase of building the app, the UX team has embarked on the journey of actual user usability testing. 
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+### Usability Test
+
+During this phase, we ran usability tests after getting our protocols IRB approval. Our protocols can be found [here](). As a part of the Usability Test, we provided participants with 3 tasks, on two variants of the [prototype](../prototypes/).
+
+- Log into the Culinary Collab website.
+- Find and edit the amount of Pineapple Juice in a Pina Colada. 
+- Find and share a drink recipe with Bourbon in it.
+
+Each of these tasks was designed to best test the efficacy of our decision to use icons instead of worded buttons in our prototype. If you look at the prototype, you'll notice that the login is the same in both variants, designed to give us a baseline task for them. The second and third tasks are more complex, with the second containing 1 major change, and the third containing 2 major changes. This methodology was chosen to check how well the user adapted to these changes, but also help us identify issues that may exist outside those elements.
+
+Outside of the test itself, we acquired participants by asking other members of our Usability Engineering class to sign up for our session, aiming to target people with Food Service or Bartending experience.
 
 ## Findings
 
