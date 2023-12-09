@@ -8,7 +8,7 @@ Culinary Collab is a webapp aimed at bar and food service professionals, as well
 
 ### Usability Test
 
-During this phase, we ran usability tests after getting our protocols IRB approval. Our protocols can be found [here](). As a part of the Usability Test, we provided participants with 3 tasks, on two variants of the [prototype](../prototypes/).
+During this phase, we ran usability tests after getting our protocols IRB approval. Our protocols can be found [here](../protocol/). As a part of the Usability Test, we provided participants with 3 tasks, on two variants of the [prototype](../prototypes/).
 
 - Log into the Culinary Collab website.
 - Find and edit the amount of Pineapple Juice in a Pina Colada. 
