@@ -33,7 +33,11 @@ Our full data and findings are attached to this report [here](../data/).
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Based on each of the primary findings above, we've drawn a few conclusions:
+
+- Variant A and B are negligibly different enough that it may come down to team preference on design elements.
+- Variant B may need some more clear signage when possible.
+- Sharing is an important and appreciated feature, but needs improvement of the actual share workflow.
 
 ## Caveats
 
