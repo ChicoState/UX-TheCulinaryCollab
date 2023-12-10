@@ -20,7 +20,16 @@ Outside of the test itself, we acquired participants by asking other members of 
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+### Usability Test
+
+In our Usability Test we had several findings:
+
+- In our testing, Variant A and B were equally favored by different candidates.
+- Participants that preferred A often cited B feeling like it had more clicks/was less straightforward.
+- Sharing was the favorite feature of 5/6 participants.
+- The sharing screen consistently confused participants, with them being unsure if it was a contacts menu or message history menu.
+
+Our full data and findings are attached to this report [here](../data/).
 
 ## Conclusions
 
