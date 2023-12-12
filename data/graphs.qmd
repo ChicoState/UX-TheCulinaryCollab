@@ -1,0 +1,15 @@
+---
+title: "Data Analysis and Graphs for Usability Test"
+format: html
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+raw <- read.csv("raw.csv")
+```
+
+```{r}
+ggplot(raw, mapping = aes(x=Variant, fill=Task.1.Rating)) + geom_bar(position="dodge") + labs(title="Task 1 Satisfaction", x = "Variant", y = "Count", fill = "Task 1 Rating")
+ggplot(raw, mapping = aes(x=Variant, fill=Task.2.Rating)) + geom_bar(position="dodge") + labs(title="Task 2 Satisfaction", x = "Variant", y = "Count", fill = "Task 2 Rating")
+ggplot(raw, mapping = aes(x=Variant, fill=Task.3.Rating)) + geom_bar(position="dodge") + labs(title="Task 3 Satisfaction", x = "Variant", y = "Count", fill = "Task 3 Rating")
+```
