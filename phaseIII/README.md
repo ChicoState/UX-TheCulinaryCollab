@@ -8,7 +8,7 @@ Culinary Collab is a webapp aimed at bar and food service professionals, as well
 
 ### Usability Test
 
-During this phase, we ran usability tests after getting our protocols IRB approval. Our protocols can be found [here](../protocol/). As a part of the Usability Test, we provided participants with 3 tasks, on two variants of the [prototype](../prototypes/).
+During this phase, we ran usability tests after getting our protocols IRB approval. Our protocols can be found [here](../protocol/), which we recommend reading for additional context. As a part of the Usability Test, we provided participants with 3 tasks, on two variants of the [prototype](../prototypes/).
 
 - Log into the Culinary Collab website.
 - Find and edit the amount of Pineapple Juice in a Pina Colada. 
@@ -29,6 +29,16 @@ In our Usability Test we had several findings:
 - Sharing was the favorite feature of 5/6 participants.
 - The sharing screen consistently confused participants, with them being unsure if it was a contacts menu or message history menu.
 
+For raw data, here are some graphs comparing our variant's results:
+
+![Task 1 Rating](t1rating.png)
+
+![Task 2 Rating](t2rating.png)
+
+![Task 3 Rating](t3rating.png)
+
+It becomes clear looking at the data in this way that in the tasks that had changes, variant B resulted in higher satisfaction for users.
+
 Our full data and findings are attached to this report [here](../data/).
 
 ## Conclusions
@@ -39,6 +49,8 @@ Based on each of the primary findings above, we've drawn a few conclusions:
 - Variant B may need some more clear signage when possible.
 - Sharing is an important and appreciated feature, but needs improvement of the actual share workflow.
 
+Were the project to continue from here, each of these findings could be used to greatly improve the user appeal 
+
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+It is important to acknowledge the limitations that come with our research methods. First and foremost is that all of our test subjects were drawn from the CSCI-431w class. This limits the demographics of our study substantially. As an example, while our preference was for people with food service experience, 1/3 of our participants had no experience in food service. This means that our data is not going to be as relevant to our target audience as we may have liked, but still can be used to garner good data about users.
