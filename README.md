@@ -6,7 +6,7 @@ The Culinary Collab is centered around offering a free and collaborative workspa
 
 ## UX Team Members
 
-* **[Robert Paul](https://usabilityengineering.github.io/ux-portfolio-robkpaul/)** - Early organization, sketches, wireframes.
+* **[Robert Paul](https://usabilityengineering.github.io/ux-portfolio-robkpaul/)** - Early organization, sketches, wireframes, executive summaries phase I and II, Phase III report.
 * **[Sophie Hammar](https://usabilityengineering.github.io/ux-portfolio-shammar001/)** - Team organization/communication, Competitive Market Analysis, Heuristic Evaluation, User Personas & Scenarios, Sketches, Wireframes
 * **[McKeever Watts](https://usabilityengineering.github.io/ux-portfolio-Prospector/)** - Competitive market analysis, heuristic evaluation, user personas and scenarios, sketches 
 
@@ -61,9 +61,13 @@ The Culinary Collab is centered around offering a free and collaborative workspa
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* **Planned** an Usability Test with real users.
+* Received **IRB** approval for our study.
+* **Completed** 6 user usability test.
+
+  **Improve Sharing Function** - Many participants were confused by this page.
+
+  **Move forward with Variant B** - While some preferred Variant A, most of our particpants showed higher satisfaction with Variant B
+
 
 [Full phase III report](phaseIII/)
