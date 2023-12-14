@@ -49,7 +49,7 @@ Based on each of the primary findings above, we've drawn a few conclusions:
 - Variant B may need some more clear signage when possible.
 - Sharing is an important and appreciated feature, but needs improvement of the actual share workflow.
 
-Were the project to continue from here, each of these findings could be used to greatly improve the user appeal 
+Were the project to continue from here, each of these findings could be used to greatly improve the user appeal. Moving forwards with variant B seems like the right choice based on our feedback, but in some places may require more clear icons, which could spawn the need for more user testing. Additionally, the sharing menu confused several users. A reevaluation of the existing menu could yield better user understanding of the process, and provide a smoother experience.
 
 ## Caveats
 
